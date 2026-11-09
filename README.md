@@ -21,7 +21,11 @@ A → D    B → E    C → F    ...    X → A    Y → B    Z → C
 
 ## 🛠️ Tecnologias
 
-- Linguagem **C**
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
+  <img width="12" />
+</div>
+<br>
 - Compilador GCC (ou qualquer compilador C compatível)
 
 ##  Como executar
